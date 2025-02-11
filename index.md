@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Tiph's Blog: Welcome readers
 ---
 
